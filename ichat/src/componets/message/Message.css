@@ -1,0 +1,41 @@
+.messageBox{
+  /* max-width: 80%; */
+  padding: 1vmax;
+  margin: 1vmax;
+  border-radius: 0.5vmax;
+  display: inline-block;
+  clear: both;
+  font-size: 1.2vmax;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: all 0.8s;
+}
+
+
+.right{
+  float: right;
+  text-align: right;
+  background-color: rgb(7, 189, 240);
+  color: white;
+ 
+}
+
+.left{
+  float: left;
+  text-align: left;
+  background-color: rgb(41, 190, 61);
+  color: white;
+}
+
+.right:hover{
+  transform: scale(1.02);
+}
+.left:hover{
+  transform: scale(1.02);
+}
+
+.middle{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(196, 255, 184);
+}

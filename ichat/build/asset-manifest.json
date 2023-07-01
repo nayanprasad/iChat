@@ -1,0 +1,19 @@
+{
+  "main.css": "/static/css/main.8eab12e2.chunk.css",
+  "main.js": "/static/js/main.dc788b3d.chunk.js",
+  "main.js.map": "/static/js/main.dc788b3d.chunk.js.map",
+  "static/js/1.25849efe.chunk.js": "/static/js/1.25849efe.chunk.js",
+  "static/js/1.25849efe.chunk.js.map": "/static/js/1.25849efe.chunk.js.map",
+  "static/js/2.d4752d45.chunk.js": "/static/js/2.d4752d45.chunk.js",
+  "static/js/2.d4752d45.chunk.js.map": "/static/js/2.d4752d45.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.e38502d2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.e38502d2.js.map",
+  "static/media/ichat-logo.png": "/static/media/ichat-logo.a701854a.png",
+  "static/media/send.mp3": "/static/media/send.8e9a81df.mp3",
+  "static/media/receive.mp3": "/static/media/receive.e32e4eeb.mp3",
+  "static/media/exit.mp3": "/static/media/exit.139d0546.mp3",
+  "static/css/main.8eab12e2.chunk.css.map": "/static/css/main.8eab12e2.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.b6787eadbe14eebeb6925597af46f3b8.js": "/precache-manifest.b6787eadbe14eebeb6925597af46f3b8.js",
+  "service-worker.js": "/service-worker.js"
+}
