@@ -1,2 +1,2 @@
 # iChat
-Real time chatting app using Reat js and Node js
+Real-time chatting app using React js, Node js and Socket IO
