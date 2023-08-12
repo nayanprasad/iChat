@@ -9,7 +9,7 @@ const server = http.createServer(app);
 const io = socketIO(server);
 
 app.use(core());
-app.get("/", (req, res) => {
+app.get("/ichat", (req, res) => {
 	res.send("iChat");
 })
 
