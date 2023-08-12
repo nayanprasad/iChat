@@ -12,7 +12,7 @@ import exitSound from "../../sounds/exit.mp3";
 
 
 let socket;
-const ENDPOINT =   "http://localhost:5000/"   //"https://ichat-nayanprasad.herokuapp.com/";  // to connect to backend
+const ENDPOINT =   "http://nayan.eventsradar.in/"   //"https://ichat-nayanprasad.herokuapp.com/";  // to connect to backend
 
 
 const Chat = (props) => {
