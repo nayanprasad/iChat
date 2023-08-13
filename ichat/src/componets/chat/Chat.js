@@ -12,8 +12,8 @@ import exitSound from "../../sounds/exit.mp3";
 
 
 let socket;
-const ENDPOINT =   "http://nayan.eventsradar.in/"   //"https://ichat-nayanprasad.herokuapp.com/";  // to connect to backend
-
+const ENDPOINT =   "http://nayan.eventsradar.in/"
+// const ENDPOINT =   "http://localhost:5000/"
 
 const Chat = (props) => {
 
@@ -43,7 +43,7 @@ const Chat = (props) => {
 
     socket = socketIO(ENDPOINT, { transports: ["websocket"] });
 
-    socket.on("connect", () => {    // the first argument is event name (custom event also) 
+    socket.on("connect", () => {    // the first argument is event name (custom event also)
       setid(socket.id);
     });
 
@@ -114,7 +114,7 @@ const Chat = (props) => {
 
   // console.log(messages);
   // console.log("pev", prevMessages);
-  
+
   // messages = [...prevMessages];
   // messages = JSON.parse(JSON.stringify(prevMessages))
 
