@@ -12,7 +12,7 @@ import exitSound from "../../sounds/exit.mp3";
 
 
 let socket;
-const ENDPOINT =   "http://nayan.eventsradar.in/"
+const ENDPOINT =   "http://ichat.nayan.radr.in/"
 // const ENDPOINT =   "http://localhost:5000/"
 
 const Chat = (props) => {
